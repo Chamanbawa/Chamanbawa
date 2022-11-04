@@ -5,20 +5,26 @@
 # **This is all About my self**
 ##  _My Skills_
 ---
-* I am good problem solver
+* I have a great Mind-Set
 * I know HTML, CSS, JavaScript
 * I believe in my-self to face problems 
 * I am also am Athlete
+ ---
+ It's my pleasure to see you here `Thank You!!`
 
  ---
+ ## My General info
+ ---
+ I was born in India. I moved to Candada in 2022 as an internaitonal student. I am learing Software Development in Winnipeg.
 
- It's my pleasure to see you here `Thank You!!`
+ ---
 
  ```HTML
 <h1> hello </h1>
  ```
 
  ![Image Link](https://github.com/Chamanbawa/chamanbawa/blob/main/assets/images/coding.jpg)
+
 
 <!--
 **Chamanbawa/chamanbawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
