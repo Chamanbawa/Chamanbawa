@@ -14,15 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# **This is my YouTube Plalist**
-##  _This is my repository_
+# **This is all About my self**
+##  _My Skills_
 ---
-- this isbullet point
-* this is poijnt
+* I am good problem solver
+* I know HTML, CSS, JavaScript
+* I believe in my-self to face problems 
+* I am also am Athlete
+
  ---
 
- This code imports the `KNN` classifier
+ It's my pleasure to see you here `Thank You!!`
 
  ```HTML
 <h1> hello </h1>
- `
+ ```
+
+
