@@ -24,6 +24,6 @@
  ---
  ### My stats are Here
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamanbawa)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamanbawa&theme=radical)
 
 
