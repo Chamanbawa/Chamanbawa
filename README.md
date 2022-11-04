@@ -1,10 +1,8 @@
 
-
-
 ### Hi there 👋
 # **This is all About my self**
 ##  _My Skills_
----
+
 * I have a great Mind-Set
 * I know HTML, CSS, JavaScript
 * I believe in my-self to face problems 
@@ -14,7 +12,7 @@
 
  ---
  ## My General info
- ---
+ 
  I was born in India. I moved to Candada in 2022 as an internaitonal student. I am learing Software Development in Winnipeg.
 
  ---
@@ -24,6 +22,7 @@
  ```
 
  ![Image Link](https://github.com/Chamanbawa/chamanbawa/blob/main/assets/images/coding.jpg)
+
 
 
 <!--
